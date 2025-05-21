@@ -16,7 +16,7 @@ Steps
    11101?
    101
    ```
-   But this can't 
+   But this can
    ```
    11101?
    101???
