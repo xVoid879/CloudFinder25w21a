@@ -25,7 +25,10 @@ Steps
 (Doesn't matter the direction you enter the clouds)
 Then press Save. (Or Ctrl + S)
 
-3. Running 🚀: Left Click the folder that contains the code, clouds.png, and pattern.txt. Press open in terminal. Then you will type 
+3. Running 🚀: Left Click the folder that contains the code, clouds.png, and pattern.txt. (Not the folder that contains the folder which contains the cf.py)
+  
+   Press open in terminal. Then you will type
+   
 ```
 python cf.py
 ```
