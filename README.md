@@ -8,7 +8,7 @@ Steps
 1. Setting up 🛠️: Download it and Extract it (You must have python to use this)
    [https://www.python.org/downloads/]
 
-2. Inputting Data 📝: Open pattern.txt, here you will enter your data
+2. Inputting Data 📝: Open pattern.txt, here you will enter your data.
    You will type 1 if there is a cloud blob, 0 and if there is not, and ? if your not sure.
    Each row must have the same number of numbers (Just fill the row that has less with ?)
    So this can't work
