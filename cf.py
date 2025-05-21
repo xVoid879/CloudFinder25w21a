@@ -97,10 +97,10 @@ def main():
 
     total_matches = sum(len(m) for m in matches)
     if total_matches == 0:
-        print("[WARN] Pattern not found")
+        print("Sorry, Pattern not found")
         return
 
-    print(f"[INFO] Found {total_matches} match{'es' if total_matches > 1 else ''}\n")
+    print(f" Found {total_matches} match{'es' if total_matches > 1 else ''}\n")
 
     for orientation, matched_coords in enumerate(matches):
         for match in matched_coords:
