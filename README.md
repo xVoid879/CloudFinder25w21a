@@ -19,7 +19,7 @@ Steps
    11101?
    101
    ```
-   But this can
+   But this <b>can</b>
    ```
    11101?
    101???
