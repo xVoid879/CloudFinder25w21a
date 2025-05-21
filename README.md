@@ -36,3 +36,4 @@ Improvements
 - Improved rotation logic to make it cleaner, less buggy, and more efficient
   
 If you need help, you can dm on discord (xVoid879#7107) or join the Minecraft@home discord.
+Please give feedback
