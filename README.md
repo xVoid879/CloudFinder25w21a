@@ -7,3 +7,8 @@ In 25w21a, the cloud patterns changed. This code is designed to find the estimat
 Steps
 1. Downlaod it and Extract it
 2. Follow the rest of the steps here: [https://github.com/humhue/cloudfinder]
+
+Improvements
+- Uses alpha to make it more accurate
+- Improved rotation logic to make it cleaner, less buggy, and more efficent
+  
