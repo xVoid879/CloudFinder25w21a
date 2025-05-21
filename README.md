@@ -5,7 +5,9 @@ Go Check it out! Could not be possible without it.
 In 25w21a, the cloud patterns changed. This code is designed to find the estimated z coordinates of 25w21a+ worlds using clouds.
 
 Steps
-1. Setting up 🛠️: Download it and Extract it
+1. Setting up 🛠️: Download it and Extract it (You must have python to use this)
+   [https://www.python.org/downloads/](url)
+
 2. Inputting Data 📝: Open pattern.txt, here you will enter your data
    You will type 1 if there is a cloud blob, 0 and if there is not, and ? if your not sure.
    Each row must have the same number of number (Just fill the row that has less with ?)
@@ -20,6 +22,7 @@ Steps
    101???
    ```
 (Doesn't matter the direction you enter the clouds)
+
 3. Running 🚀: Left Click the folder that contains the code, clouds.png, and pattern.txt. Press open in terminal. Then you will type 
 ```
 python cf.py
