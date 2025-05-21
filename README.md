@@ -32,5 +32,5 @@ python cf.py
    
 Improvements
 - Uses alpha to make it more accurate
-- Improved rotation logic to make it cleaner, less buggy, and more efficent
+- Improved rotation logic to make it cleaner, less buggy, and more efficient
   
