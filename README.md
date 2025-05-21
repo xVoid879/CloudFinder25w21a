@@ -1,5 +1,5 @@
 # CloudFinder25w21a
-Most of the code comes from: [https://github.com/humhue/cloudfinder] (Same thing but for 25w20a- worlds)
+Most of the code comes from: [https://github.com/humhue/cloudfinder] (Cloudfinder but for 25w20a- worlds)
 
 Go Check it out! Could not be possible without it.
 
